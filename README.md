@@ -10,6 +10,7 @@
   <a href="https://opensec.in/#disclosures"><img alt="Disclosures" src="https://img.shields.io/badge/Disclosures-050505?style=for-the-badge"></a>
   <a href="https://opensec.in/blog"><img alt="Blog" src="https://img.shields.io/badge/Blog-050505?style=for-the-badge"></a>
   <a href="https://x.com/OpenSecAI"><img alt="X: @OpenSecAI" src="https://img.shields.io/badge/@OpenSecAI-050505?style=for-the-badge&logo=x&logoColor=bafc6b"></a>
+  <a href="https://www.linkedin.com/company/opensecai/"><img alt="LinkedIn: OpenSec" src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2JhZmM2YiIgZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNNCAxaDE2YTMgMyAwIDAgMSAzIDN2MTZhMyAzIDAgMCAxLTMgM0g0YTMgMyAwIDAgMS0zLTNWNGEzIDMgMCAwIDEgMy0zek03LjEgNS4zYTEuNyAxLjcgMCAxIDAgMCAzLjQgMS43IDEuNyAwIDAgMCAwLTMuNHpNNS42IDEwdjguNmgyLjlWMTB6bTQuOCAwdjguNmgyLjl2LTQuNmMwLTEuMi42LTEuOSAxLjUtMS45czEuNC42IDEuNCAxLjl2NC42aDIuOXYtNS4yYzAtMi41LTEuMy0zLjYtMy4yLTMuNi0xLjMgMC0yLjIuNi0yLjYgMS4zVjEweiIvPjwvc3ZnPgo="></a>
   <a href="https://opensec.in/contact"><img alt="Contact" src="https://img.shields.io/badge/Contact-bafc6b?style=for-the-badge"></a>
 </p>
 
