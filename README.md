@@ -9,6 +9,7 @@
   <a href="https://github.com/opensec-git/Pi-Bolt"><img alt="Pi-Bolt" src="https://img.shields.io/badge/Pi--Bolt-050505?style=for-the-badge"></a>
   <a href="https://opensec.in/#disclosures"><img alt="Disclosures" src="https://img.shields.io/badge/Disclosures-050505?style=for-the-badge"></a>
   <a href="https://opensec.in/blog"><img alt="Blog" src="https://img.shields.io/badge/Blog-050505?style=for-the-badge"></a>
+  <a href="https://x.com/OpenSecAI"><img alt="X: @OpenSecAI" src="https://img.shields.io/badge/@OpenSecAI-050505?style=for-the-badge&logo=x&logoColor=bafc6b"></a>
   <a href="https://opensec.in/contact"><img alt="Contact" src="https://img.shields.io/badge/Contact-bafc6b?style=for-the-badge"></a>
 </p>
 
